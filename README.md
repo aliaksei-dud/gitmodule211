@@ -30,3 +30,4 @@ Task:
 6) Pass practical scenario https://www.katacoda.com/aossama/scenarios/git-scm-lab-202<br>
 <br>
 <br>
+test commit
